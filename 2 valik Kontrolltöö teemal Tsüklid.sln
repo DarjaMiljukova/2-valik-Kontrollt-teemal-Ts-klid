@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2 valik Kontrolltöö teemal Tsüklid", "2 valik Kontrolltöö teemal Tsüklid.pyproj", "{D650527D-4684-4B6E-B77A-BB108C45A4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D650527D-4684-4B6E-B77A-BB108C45A4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D650527D-4684-4B6E-B77A-BB108C45A4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE0AC5BC-AA6A-429D-A5D1-BCD4ACACF1AC}
+	EndGlobalSection
+EndGlobal
